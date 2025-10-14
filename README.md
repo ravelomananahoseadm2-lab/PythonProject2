@@ -13,3 +13,4 @@ Ce projet montre comment automatiser des actions sur **l’émulateur Android XG
    ```bash
    git clone https://github.com/<ton-nom-utilisateur>/PythonProject2.git
    cd PythonProject2
+
