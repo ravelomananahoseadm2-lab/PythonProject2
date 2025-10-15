@@ -1,9 +1,5 @@
+### 2️⃣ `xgodo_test.py`
 
----
-
-### 2️⃣ `xgodo_test.py` (version anglaise)
-
-```python
 import os
 import time
 from adb_shell.adb_device import AdbDeviceTcp
