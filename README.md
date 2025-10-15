@@ -1,16 +1,21 @@
 # 🤖 XGODO Android Automation via Python & ADB
 
-Ce projet montre comment automatiser des actions sur **l’émulateur Android XGODO dans Bluestacks** en utilisant Python et la bibliothèque `adb_shell`.
+This project demonstrates how to automate actions on the XGODO Android emulator in Bluestacks using Python and the adb_shell library.
 
-## 🚀 Fonctionnalités
-- Connexion automatique à l’émulateur Android via ADB
-- Lancement et fermeture de l’application XGODO
-- Exécution de tap et scroll automatiques
-- Capture d’écran enregistrée dans le dossier `screenshots/`
+---
+
+## 🚀 Features
+
+- Automatic connection to the Android emulator via ADB
+- Launch and close the XGODO application
+- Automatic tap and scroll actions
+- Screenshot capture saved in the `screenshots/` folder
+
+---
 
 ## 🛠️ Installation
-1. Clonez le projet :
-   ```bash
-   git clone https://github.com/<ton-nom-utilisateur>/PythonProject2.git
-   cd PythonProject2
 
+Clone the repository:
+```bash
+git clone https://github.com/ravelomananahoseadm2-lab/PythonProject2.git
+cd PythonProject2
